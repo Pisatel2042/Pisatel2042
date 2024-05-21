@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 
 - 📫 -You can contact me at Telegram @KavabaNgaA777
-- if(null == anal )
--     return Govno iz Ass; 
 
 
 
