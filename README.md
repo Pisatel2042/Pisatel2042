@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Pisatel2042
-- 👀 I’m interested in  ...
+- 👋 Hi, I’m Vasya  
+- 👀 I’m interested in life and family
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 -You can contact me at Telegram @KavabaNgaA77
 Базар как вода и то и то нужно фильтроват иначе почкам конец
-<!---
-Pisatel2042/Pisatel2042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
