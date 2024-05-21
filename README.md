@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Vasya  
-- 👀 I’m interested in life and family
+- 👋 Hi, I’m Vasya 
+- 👀 I’m interested in C# ASP.Net Telegram bot, SQL,  Kotlin  
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 -You can contact me at Telegram @KavabaNgaA77
-Базар как вода и то и то нужно фильтроват иначе почкам конец
+- 💞️ I’m looking to collaborate on 
+- 📫 -You can contact me at Telegram @KavabaNgaA777
+- if(null == anal )
+-     return Govno iz Ass; 
+
+
 
 
