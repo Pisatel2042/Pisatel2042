@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vasya 
 - 👀 I’m interested in C# ASP.Net Telegram bot, SQL,  Kotlin  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 
-- 📫 -You can contact me at Telegram @KavabaNgaA777
+- 🌱 I’m currently self-study and study in 1-MOK
+- 💞️ I’m looking to collaborate 
+- 📫 -You can contact me at Telegram @KavabaNgaA77
 
 
 
