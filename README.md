@@ -47,11 +47,11 @@ backend systems and AI-powered solutions.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 🚀 Featured Project
 
-### 📚 English Tutor Platform
+ 🚀 Featured Project
+
+ 📚 English Tutor Platform
 
 Full-stack educational platform for an English tutor.
 
@@ -68,17 +68,4 @@ The project includes:
 - 🔐 Authentication
 - ⚙️ REST API
 
-**Stack:**  
-`React` `Tailwind CSS` `Chakra UI` `C#` `ASP.NET Core` `Entity Framework Core` `SQL Server`
 
----
-
-## 📈 Currently Learning
-
-```text
-C# / ASP.NET Core       ███████████████░░░
-React                   █████████████░░░░░
-SQL                     ████████████░░░░░░
-Python                  ████████░░░░░░░░░░
-AI / LLM                ███████░░░░░░░░░░░
-Docker / Linux          ███████░░░░░░░░░░░
